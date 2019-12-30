@@ -1,0 +1,14 @@
+.active { 
+    background-color: darkslateblue !important; 
+    color: lightgray !important;
+}
+nav a { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    padding: 3px 6px; 
+    background-color: lightgray; 
+    color: darkslateblue; 
+    margin: 0 2px; 
+    border-radius: 3px;
+    text-decoration: none;
+}
